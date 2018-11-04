@@ -1,2 +1,2 @@
-# App1
+# App1 - Angular
 Aprendendo Inglês - Angular
